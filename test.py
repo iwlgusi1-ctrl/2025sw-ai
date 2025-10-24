@@ -11,3 +11,5 @@ print("new new")
 print("ok")
 
 print("test2")
+
+print("last test")
